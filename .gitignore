@@ -1,0 +1,9 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Python / IDE specifics
+__pycache__/
+.vscode/
+.colcon_ignore
