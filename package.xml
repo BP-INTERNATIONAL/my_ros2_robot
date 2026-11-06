@@ -19,6 +19,9 @@
   <depend>controller_manager</depend>
   <depend>mecanum_drive_controller</depend>
   <depend>joint_state_broadcaster</depend>
+  <exec_depend>rviz2</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>tf2_msgs</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
